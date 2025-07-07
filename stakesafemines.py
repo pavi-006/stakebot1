@@ -14,7 +14,7 @@ import time
 TILES_COUNT = 25
 COMBO_FILE = "used_combos.json"
 PAID_FILE = "paid_users.json"
-BOT_TOKEN = os.getenv("7949366449:AAGGx0j8WvL2ig7zMW4V01Fe1pDdwtEg9eg")  # ✅ Use environment variable
+BOT_TOKEN = os.getenv("7949366449:AAGGx0j8WvL2ig7zMW4V01Fe1pDdwtEg9eg")  # ✅ Get from Render environment
 ADMIN_ID = 5628303560  # Replace with your Telegram ID
 
 # === File helpers ===
